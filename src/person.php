@@ -1,5 +1,5 @@
 <?php
-namespace mwaura\person;
+namespace person;
 
 class person
 {

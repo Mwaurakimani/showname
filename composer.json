@@ -1,0 +1,17 @@
+{
+    "name": "kimmw/showname",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "person\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MwauraKimani",
+            "email": "kimmwaus@gmail.com"
+        }
+    ],
+    "require": {}
+}
