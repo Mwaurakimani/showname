@@ -5,6 +5,6 @@ class person
 {
     public function show ()
     {
-        echo "peter kimani";
+        echo "new order";
     }
 }
